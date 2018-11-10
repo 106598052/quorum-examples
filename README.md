@@ -78,5 +78,5 @@ We will run 7nodes example by running a preconfigured Vagrant environment which 
     You should see node1, node7 get 42 and node4 get 0 because node4 have no permission to see the privacy transaction
     
 ###Resources
-1.jpmorganchase/quorum-examples: Examples for Quorum[https://github.com/jpmorganchase/quorum-examples]
-2.Quorum─JP Morgan基於Ethereum打造的聯盟鏈[https://blog.lizen.me/quorum-jp-morgan/]
+1.[jpmorganchase/quorum-examples: Examples for Quorum](https://github.com/jpmorganchase/quorum-examples)
+2.[Quorum─JP Morgan基於Ethereum打造的聯盟鏈](https://blog.lizen.me/quorum-jp-morgan/)
